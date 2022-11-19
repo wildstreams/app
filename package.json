@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "obs-websocket-js": "^5.0.2",
+    "play-sound": "^1.1.5",
     "pmi.js": "^1.0.4",
     "tmi.js": "^1.8.5"
   }
